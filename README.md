@@ -1,1 +1,1 @@
-# School-Database
+# School-Database-SQLite
